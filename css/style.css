@@ -1,0 +1,19 @@
+body {
+    background-color: #f5f5dd;
+}
+div {
+    background-color: #000;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+#div-2 {
+background-color: rgba(0, 0, 0, 0.75);
+}
+#div-3 {
+background-color: rgba(0, 0, 0, 0.5);
+}
+#div-4 {
+background-color: rgba(0, 0, 0, 0.25);
+}
+    
